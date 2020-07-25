@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo blog on ROOFTOP</title>
+    <link>http://aislinggui.com/tags/hugo-blog/</link>
+    <description>Recent content in hugo blog on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Nov 2019 21:02:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/tags/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HUGO &#43; Github 博客搭建</title>
+      <link>http://aislinggui.com/post/blogset/</link>
+      <pubDate>Tue, 19 Nov 2019 21:02:00 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/blogset/</guid>
+      <description>1.建立Hugo项目 2.部署到Github Pages</description>
+    </item>
+    
+  </channel>
+</rss>

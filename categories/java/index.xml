@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAVA on ROOFTOP</title>
+    <link>http://aislinggui.com/categories/java/</link>
+    <description>Recent content in JAVA on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jan 2020 23:18:20 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JAVA基础总结</title>
+      <link>http://aislinggui.com/post/java%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 06 Jan 2020 23:18:20 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/java%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/</guid>
+      <description>数组 Java 语言中提供的数组是用来存储固定大小的同类型元素。 数组定义 1 dataType[] arrayRefVar = new dataType[arraySize]; 打印数组元素 1 2 3 for (int i = 0; i &amp;lt; myList.length; i++) { System.out.println(myList[i] + &amp;#34; &amp;#34;); } 也可以用for-e</description>
+    </item>
+    
+    <item>
+      <title>JAVA常用数据结构</title>
+      <link>http://aislinggui.com/post/java%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+      <pubDate>Fri, 03 Jan 2020 10:53:57 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/java%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+      <description>Set Set是java中的集合类型,三种常见的Set,HashSet,TreeSet,LinkedHashSet。 如果你需要一个访问快速的Set</description>
+    </item>
+    
+  </channel>
+</rss>

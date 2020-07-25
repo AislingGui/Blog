@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>算法 on ROOFTOP</title>
+    <link>http://aislinggui.com/categories/%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 算法 on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jan 2020 23:24:06 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/categories/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>字符串算法题</title>
+      <link>http://aislinggui.com/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AE%97%E6%B3%95%E9%A2%98/</link>
+      <pubDate>Fri, 10 Jan 2020 23:24:06 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AE%97%E6%B3%95%E9%A2%98/</guid>
+      <description>反转字符串 题目描述：是将输入的字符串反转过来。输入字符串以字符数组 char[] 的形式给出。 不要给另外的数组分配额外的空间，你必须原地修改输入数组、使用</description>
+    </item>
+    
+    <item>
+      <title>链表操作</title>
+      <link>http://aislinggui.com/post/%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Thu, 09 Jan 2020 23:13:50 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C/</guid>
+      <description>反转链表 示例： 输入: 1-&amp;gt;2-&amp;gt;3-&amp;gt;4-&amp;gt;5-&amp;gt;NULL 输出: 5-&amp;gt;4-&amp;gt;3-&amp;gt;2-&amp;gt;1-&amp;gt;NULL 解析： 1 2 3 4 5 6 7 8 9 10 11 12 public ListNode reverseList(ListNode head) { ListNode prev = null; ListNode curr = head; ListNode nextTemp; while (curr != null) { nextTemp = curr.next; curr.next = prev; prev = curr; curr = nextTemp; } return prev; }</description>
+    </item>
+    
+    <item>
+      <title>技巧型算法题</title>
+      <link>http://aislinggui.com/post/%E6%8A%80%E5%B7%A7%E5%9E%8B%E7%AE%97%E6%B3%95%E9%A2%98/</link>
+      <pubDate>Mon, 06 Jan 2020 23:04:27 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E6%8A%80%E5%B7%A7%E5%9E%8B%E7%AE%97%E6%B3%95%E9%A2%98/</guid>
+      <description>买股票的最佳时机 题目描述： 输入: [7,1,5,3,6,4] 输出: 5 解释: 在第 2 天（股票价格 = 1）的时候买入，在第 5 天（股票价格 = 6）的时候卖出，最大利润 = 6-1 = 5 。 注</description>
+    </item>
+    
+    <item>
+      <title>查找算法</title>
+      <link>http://aislinggui.com/post/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 01 Jan 2020 22:33:21 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</guid>
+      <description>1.二分查找 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 class Solution { public int searchInsert(int[] nums, int target) { int left = 0, right = nums.length - 1; while(left &amp;lt;= right) { int mid = (left + right) / 2; if(nums[mid] == target) { return mid; } else if(nums[mid] &amp;lt; target) { left = mid + 1;</description>
+    </item>
+    
+    <item>
+      <title>排序算法</title>
+      <link>http://aislinggui.com/post/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 01 Jan 2020 22:10:28 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
+      <description>1.冒泡排序 1 2 3 4 5 6 7 8 9 10 11 void bubbleSort (elemType arr[], int len) { elemType temp; int i, j; for (i=0; i&amp;lt;len-1; i++) /* 外循环为排序趟数，len个数进行len-1趟 */ for (j=0; j&amp;lt;len-1-i; j++) { /* 内循环为每趟比</description>
+    </item>
+    
+  </channel>
+</rss>

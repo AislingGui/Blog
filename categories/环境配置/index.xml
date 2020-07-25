@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>环境配置 on ROOFTOP</title>
+    <link>http://aislinggui.com/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+    <description>Recent content in 环境配置 on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jan 2020 21:37:16 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>常用环境配置</title>
+      <link>http://aislinggui.com/post/%E5%B8%B8%E7%94%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Fri, 10 Jan 2020 21:37:16 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E5%B8%B8%E7%94%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <description>conda配置 查看当前存在的虚拟环境conda env list 创建新的虚拟环境 conda create -n name python=version 激活虚拟环境source activate name 退出环境source deactivate 删除环境con</description>
+    </item>
+    
+  </channel>
+</rss>

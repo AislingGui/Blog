@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ROOFTOP</title>
+    <link>http://aislinggui.com/tags/</link>
+    <description>Recent content in Tags on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jan 2020 14:43:44 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>搜索</title>
+      <link>http://aislinggui.com/tags/%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Sat, 04 Jan 2020 14:43:44 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/tags/%E6%90%9C%E7%B4%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scrapy 爬虫</title>
+      <link>http://aislinggui.com/tags/scrapy-%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Tue, 03 Dec 2019 14:39:55 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/tags/scrapy-%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo blog</title>
+      <link>http://aislinggui.com/tags/hugo-blog/</link>
+      <pubDate>Tue, 19 Nov 2019 21:02:00 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/tags/hugo-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on ROOFTOP</title>
+    <link>http://aislinggui.com/categories/linux/</link>
+    <description>Recent content in Linux on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2020 20:13:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux常用命令</title>
+      <link>http://aislinggui.com/post/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Fri, 03 Jan 2020 20:13:04 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>进程 1.查看进程 ps:执行ps命令的那个时刻的那些进程 参数： -e 显示所有进程。 -f 全格式。 显示所有进程信息，连同命令行:ps -ef 结果的字段有： 1.UID 用</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu下设置定时任务</title>
+      <link>http://aislinggui.com/post/ubuntu%E4%B8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/</link>
+      <pubDate>Thu, 02 Jan 2020 21:35:56 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/ubuntu%E4%B8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/</guid>
+      <description>通过crontab命令来设置 1.列出当前用户的任务 crontab -l 2.编辑当前用户的任务 crontab -e 定时的部分从左到右依次是 分钟 小时 几号 月份 星期几，后面是需要执</description>
+    </item>
+    
+  </channel>
+</rss>

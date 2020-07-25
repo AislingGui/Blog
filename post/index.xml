@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ROOFTOP</title>
+    <link>http://aislinggui.com/post/</link>
+    <description>Recent content in Posts on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jan 2020 13:23:49 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docke容器管理</title>
+      <link>http://aislinggui.com/post/docker%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sat, 11 Jan 2020 13:23:49 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/docker%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86/</guid>
+      <description>查看 docker ps: 查看当前运行的容器 docker ps -a查看所有容器，包括停止的 启动容器</description>
+    </item>
+    
+    <item>
+      <title>字符串算法题</title>
+      <link>http://aislinggui.com/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AE%97%E6%B3%95%E9%A2%98/</link>
+      <pubDate>Fri, 10 Jan 2020 23:24:06 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AE%97%E6%B3%95%E9%A2%98/</guid>
+      <description>反转字符串 题目描述：是将输入的字符串反转过来。输入字符串以字符数组 char[] 的形式给出。 不要给另外的数组分配额外的空间，你必须原地修改输入数组、使用</description>
+    </item>
+    
+    <item>
+      <title>常用环境配置</title>
+      <link>http://aislinggui.com/post/%E5%B8%B8%E7%94%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Fri, 10 Jan 2020 21:37:16 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E5%B8%B8%E7%94%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <description>conda配置 查看当前存在的虚拟环境conda env list 创建新的虚拟环境 conda create -n name python=version 激活虚拟环境source activate name 退出环境source deactivate 删除环境con</description>
+    </item>
+    
+    <item>
+      <title>链表操作</title>
+      <link>http://aislinggui.com/post/%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Thu, 09 Jan 2020 23:13:50 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C/</guid>
+      <description>反转链表 示例： 输入: 1-&amp;gt;2-&amp;gt;3-&amp;gt;4-&amp;gt;5-&amp;gt;NULL 输出: 5-&amp;gt;4-&amp;gt;3-&amp;gt;2-&amp;gt;1-&amp;gt;NULL 解析： 1 2 3 4 5 6 7 8 9 10 11 12 public ListNode reverseList(ListNode head) { ListNode prev = null; ListNode curr = head; ListNode nextTemp; while (curr != null) { nextTemp = curr.next; curr.next = prev; prev = curr; curr = nextTemp; } return prev; }</description>
+    </item>
+    
+    <item>
+      <title>JAVA基础总结</title>
+      <link>http://aislinggui.com/post/java%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 06 Jan 2020 23:18:20 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/java%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93/</guid>
+      <description>数组 Java 语言中提供的数组是用来存储固定大小的同类型元素。 数组定义 1 dataType[] arrayRefVar = new dataType[arraySize]; 打印数组元素 1 2 3 for (int i = 0; i &amp;lt; myList.length; i++) { System.out.println(myList[i] + &amp;#34; &amp;#34;); } 也可以用for-e</description>
+    </item>
+    
+    <item>
+      <title>技巧型算法题</title>
+      <link>http://aislinggui.com/post/%E6%8A%80%E5%B7%A7%E5%9E%8B%E7%AE%97%E6%B3%95%E9%A2%98/</link>
+      <pubDate>Mon, 06 Jan 2020 23:04:27 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E6%8A%80%E5%B7%A7%E5%9E%8B%E7%AE%97%E6%B3%95%E9%A2%98/</guid>
+      <description>买股票的最佳时机 题目描述： 输入: [7,1,5,3,6,4] 输出: 5 解释: 在第 2 天（股票价格 = 1）的时候买入，在第 5 天（股票价格 = 6）的时候卖出，最大利润 = 6-1 = 5 。 注</description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch相关操作</title>
+      <link>http://aislinggui.com/post/elasticsearch%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Sat, 04 Jan 2020 14:43:44 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/elasticsearch%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C/</guid>
+      <description>配置文件 elasticsearch-6.8.0/config/elasticsearch.yml下： http.port: 9200 transport.tcp.port: 9300 http.cors.enabled: true http.cors.allow-origin: &amp;ldquo; * &amp;ldquo; 后面两行配置是为了开</description>
+    </item>
+    
+    <item>
+      <title>Linux常用命令</title>
+      <link>http://aislinggui.com/post/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Fri, 03 Jan 2020 20:13:04 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>进程 1.查看进程 ps:执行ps命令的那个时刻的那些进程 参数： -e 显示所有进程。 -f 全格式。 显示所有进程信息，连同命令行:ps -ef 结果的字段有： 1.UID 用</description>
+    </item>
+    
+    <item>
+      <title>JAVA常用数据结构</title>
+      <link>http://aislinggui.com/post/java%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+      <pubDate>Fri, 03 Jan 2020 10:53:57 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/java%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+      <description>Set Set是java中的集合类型,三种常见的Set,HashSet,TreeSet,LinkedHashSet。 如果你需要一个访问快速的Set</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu下设置定时任务</title>
+      <link>http://aislinggui.com/post/ubuntu%E4%B8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/</link>
+      <pubDate>Thu, 02 Jan 2020 21:35:56 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/ubuntu%E4%B8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/</guid>
+      <description>通过crontab命令来设置 1.列出当前用户的任务 crontab -l 2.编辑当前用户的任务 crontab -e 定时的部分从左到右依次是 分钟 小时 几号 月份 星期几，后面是需要执</description>
+    </item>
+    
+    <item>
+      <title>查找算法</title>
+      <link>http://aislinggui.com/post/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 01 Jan 2020 22:33:21 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</guid>
+      <description>1.二分查找 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 class Solution { public int searchInsert(int[] nums, int target) { int left = 0, right = nums.length - 1; while(left &amp;lt;= right) { int mid = (left + right) / 2; if(nums[mid] == target) { return mid; } else if(nums[mid] &amp;lt; target) { left = mid + 1;</description>
+    </item>
+    
+    <item>
+      <title>排序算法</title>
+      <link>http://aislinggui.com/post/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 01 Jan 2020 22:10:28 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
+      <description>1.冒泡排序 1 2 3 4 5 6 7 8 9 10 11 void bubbleSort (elemType arr[], int len) { elemType temp; int i, j; for (i=0; i&amp;lt;len-1; i++) /* 外循环为排序趟数，len个数进行len-1趟 */ for (j=0; j&amp;lt;len-1-i; j++) { /* 内循环为每趟比</description>
+    </item>
+    
+    <item>
+      <title>Scrapy爬虫基本操作</title>
+      <link>http://aislinggui.com/post/scrapy%E7%88%AC%E8%99%AB%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Tue, 03 Dec 2019 14:39:55 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/scrapy%E7%88%AC%E8%99%AB%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HUGO &#43; Github 博客搭建</title>
+      <link>http://aislinggui.com/post/blogset/</link>
+      <pubDate>Tue, 19 Nov 2019 21:02:00 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/blogset/</guid>
+      <description>1.建立Hugo项目 2.部署到Github Pages</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>容器 on ROOFTOP</title>
+    <link>http://aislinggui.com/categories/%E5%AE%B9%E5%99%A8/</link>
+    <description>Recent content in 容器 on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jan 2020 13:23:49 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/categories/%E5%AE%B9%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docke容器管理</title>
+      <link>http://aislinggui.com/post/docker%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sat, 11 Jan 2020 13:23:49 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/docker%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86/</guid>
+      <description>查看 docker ps: 查看当前运行的容器 docker ps -a查看所有容器，包括停止的 启动容器</description>
+    </item>
+    
+  </channel>
+</rss>
